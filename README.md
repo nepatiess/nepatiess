@@ -12,13 +12,13 @@
 ###
 <h1 align="left">About me:</h1>
 
-- 🥰 My full name is **Zeynep Koz** <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1" width="400" align="right"/>
+- 🥰 My full name is **Zeynep Koz** <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1" width="300" align="right"/>
 - :school: I'm currently 3rd year student at **Düzce University**
 - :books: My major is **Computer Engineering**
 - :earth_asia: I'm living now in **Türkiye, İstanbul**
 - :sweat_smile: I know C# and C++ language. Now I'm focus on learning Web Development, Python.
 - :monocle_face: I'm interested in coding, painting, and playing games.
-- :sunglasses: My quote is ***" Bilmemek ayıp değil öğrenmemek Ayıp (It's not a shame not to know, it's a shame not to learn.)"*** 
+- :sunglasses: My quote is ***" Bilmemek ayıp değil öğrenmemek ayıp (It's not a shame not to know, it's a shame not to learn.)"*** 
 ###
 
 <h1 align="left">Here my skill sets: </h1> 
