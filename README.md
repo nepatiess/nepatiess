@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋! My name is Zeynep and I'm a computer engineering student</h1>
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Zeynep;Computer%20Engineering%20Student;Welcome%2B%20to%20my%20github%20account;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Zeynep;Computer%20Engineering%20Student;Welcome%20to%20my%20github%20account;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <h1 align="left">Hi 👋! My name is Zeynep and I'm a computer engineering student</h1>
 
