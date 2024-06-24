@@ -10,17 +10,14 @@
 </div>
 
 ###
-
-About Me
-
+<h1 align="left">About me:</h1>
 - :credit_card: My full name is **Zeynep Koz** <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1" width="400" align="right"/>
-- :school: I'm currently 3rd year student at **FPT University - Ho Chi Minh City Campus**
-- :books: My major is **Software Engineering**
-- :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
-- :sweat_smile: I'm a newbie in coding, know C and Java language. Now I'm focus on learning Web Development.
-- :monocle_face: I'm interested in coding, sleeping, and watching film
-- :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
-- :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
+- :school: I'm currently 3rd year student at **Düzce University**
+- :books: My major is **Computer Engineering**
+- :earth_asia: I'm living now in **Türkiye, İstanbul**
+- :sweat_smile: I know C# and C++ language. Now I'm focus on learning Web Development, Python.
+- :monocle_face: I'm interested in coding, painting, and playing games.
+- :sunglasses: My quote is ***" Bilmemek ayıp değil öğrenmemek Ayıp (It's not a shame not to know, it's a shame not to learn.)"*** 
 ###
 <h1 align="left">Here my skill sets:</h1>
 <div align="left">
