@@ -13,7 +13,7 @@
 
 ## <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1" width="50px"></img> About Me
 
-- :credit_card: My full name is **Huỳnh Lê Thủy Tiên** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :credit_card: My full name is **Zeynep Koz** <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1" width="400" align="right"/>
 - :school: I'm currently 3rd year student at **FPT University - Ho Chi Minh City Campus**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
