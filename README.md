@@ -2,8 +2,6 @@
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Zeynep;Computer%20Engineering%20Student;Welcome%20to%20my%20github%20account;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-<h1 align="left">Hi 👋! My name is Zeynep and I'm a computer engineering student</h1>
-
 ###
 
 <div align="center">
@@ -16,7 +14,7 @@
 <img align="right" height="150" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1"  />
 
 ###
-
+<h1 align="left">Here my skill sets:</h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
   <img width="12" />
