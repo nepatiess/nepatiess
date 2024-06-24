@@ -45,9 +45,6 @@
   <a href="https://www.linkedin.com/in/zeynep-koz34/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=191919&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:zeynepkozz52@gmail.com"></a>
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=191919&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://discord.com/users/467302273911881740" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=191919&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
