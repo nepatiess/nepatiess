@@ -45,7 +45,7 @@
   <a href="https://www.linkedin.com/in/zeynep-koz34/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=191919&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="zeynepkozz52@gmail.com" target="_blank">
+  <a href="https://gmail/zeynepkozz52@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=191919&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="nepatiess" target="_blank">
