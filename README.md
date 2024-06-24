@@ -21,7 +21,7 @@
 - :sunglasses: My quote is ***" Bilmemek ayıp değil öğrenmemek Ayıp (It's not a shame not to know, it's a shame not to learn.)"*** 
 ###
 
-<h1> align="left">Here my skill sets: </h1> 
+<h1 align="left">Here my skill sets: </h1> 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
   <img width="12" />
