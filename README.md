@@ -20,7 +20,7 @@
 - :monocle_face: I'm interested in coding, painting, and playing games.
 - :sunglasses: My quote is ***" Bilmemek ayıp değil öğrenmemek Ayıp (It's not a shame not to know, it's a shame not to learn.)"*** 
 ###
-<h1 align="left">Here my skill sets:</h1>
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Here my skill sets:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
   <img width="12" />
