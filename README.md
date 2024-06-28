@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20github%20account;I'm%20Zeynep;I'm%20Computer%20Engineering%20Student;Always%20learning%20new%20things&font=Pacifico&center=true&width=650&height=120&color=ffffff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20github%20account;I'm%20Zeynep;I'm%20Computer%20Engineering%20Student;Always%20learning%20new%20things&font=Silksoreen&center=true&width=650&height=120&color=ffffff&vCenter=true&size=45%22"></a>
 </p>
 
 ###
