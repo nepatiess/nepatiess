@@ -2,11 +2,7 @@
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20github%20account;I'm%20Zeynep;I'm%20Computer%20Engineering%20Student;Always%20learning%20new%20things&font=Almendra&center=true&width=650&height=120&color=ffffff&vCenter=true&size=45%22"></a>
 </p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nepatiess&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  
+### 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nepatiess&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
