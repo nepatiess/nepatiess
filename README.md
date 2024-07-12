@@ -19,12 +19,13 @@
 </picture> 
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nepatiess&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
-</div>  <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1" width="250" align="right"/>
+</div> 
 
+(https://github-readme-stats.vercel.app/api?username=CyrisXD&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 ###
 <h1 align="left">About me:</h1>
 
-- 🥰 My full name is **Zeynep Koz**
+- 🥰 My full name is **Zeynep Koz** <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1" width="250" align="right"/>
 - :school: I'm currently 3rd year student at **Düzce University**
 - :books: My major is **Computer Engineering**
 - 🌍: I'm living now in **Türkiye, İstanbul**
