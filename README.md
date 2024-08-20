@@ -53,7 +53,7 @@
   </a>
 </div>
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nepatiess/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nepatiess&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div> 
