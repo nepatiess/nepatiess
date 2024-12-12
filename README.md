@@ -11,7 +11,7 @@
 - 🌍: I'm living now in **Türkiye, İstanbul**
 - :sweat_smile: I know C# and C++ language. Now I'm focus on learning Web Development, Python.
 - :monocle_face: I'm interested in coding, painting, and playing games.
-- :sunglasses: My quote is ***" Bilmemek ayıp değil öğrenmemek ayıp (It's not a shame not to know, it's a shame not to learn.)"*** 
+- :sunglasses: My quote is ***" Bilmemek ayıp değil öğrenmemek ayıp (There is no shame in not knowing; the shame lies in not finding out)"*** 
 ###
 
 <h1 align="left">Here my skill sets: </h1> 
