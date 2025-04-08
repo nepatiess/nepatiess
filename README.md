@@ -11,7 +11,7 @@
 - I'm living now in **Türkiye, İstanbul**
 - I know C# and C++ language. Now I'm focus on learning Web Development, Python.
 - I'm interested in coding, painting, and playing games.
-- My quote is ***" Bilmemek ayıp değil öğrenmemek ayıp (There is no shame in not knowing; the shame lies in not finding out)"*** 
+- My quote is ***" Bilmemek ayıp değil öğrenmemek ayıp (There is no shame in not knowing; the shame is in not being willing to learn.)"*** 
 ###
 
 <h1 align="left">Here my skill sets: </h1> 
