@@ -9,7 +9,7 @@
 - I'm currently 4th year student at **Düzce University**
 - My major is **Computer Engineering**
 - I'm living now in **Türkiye, İstanbul**
-- I know C# and C++ language. Now I'm focus on learning Web Development, Python.
+- I know C# and C++ language. I like game programming. Now I'm focus on learning Mobile Development, Python.
 - I'm interested in coding, painting, and playing games.
 - My quote is ***" Bilmemek ayıp değil öğrenmemek ayıp (There is no shame in not knowing; the shame is in not being willing to learn.)"*** 
 ###
